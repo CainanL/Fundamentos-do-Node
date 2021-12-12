@@ -14,5 +14,14 @@ PUT -> Alterar uma informação no servidor.
 PATCH -> Alterar uma informação especifica.
 DELETE -> Deletar uma informação no servidor.
 
+STATUS HTTP
+200 -> SUCESS
+201 -> CREATED
+204 -> DELETED
+
+MIDDLEWARE
+pode ser passado no app.use() -> app.use(MIDDLEWARE)
+entre a rota e o callback route.post('/', MIDDLEWARE, (req, res))
+
 ATALHOS
 CTRL + J -> abrir e fechar terminal.
