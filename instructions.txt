@@ -1,0 +1,18 @@
+yarn init -y -> inicia a aplicação node
+express -> um dos frameworks mais utilizados dentro do node.
+nodemon -> para auxiliar no desenvolvimento, recarega a aplicação sempre que algo é alterado, (nodemon caminho_do_arquivo_+_extensão)
+
+
+
+
+
+
+MÉTODOS HTTP
+GET -> Buscar uma informação dentro do servidor.
+POST -> Inserir uma informação no servidor.
+PUT -> Alterar uma informação no servidor.
+PATCH -> Alterar uma informação especifica.
+DELETE -> Deletar uma informação no servidor.
+
+ATALHOS
+CTRL + J -> abrir e fechar terminal.
